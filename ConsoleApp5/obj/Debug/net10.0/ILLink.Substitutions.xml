@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="ConsoleApp5">
+    <resource name="FSharpSignatureData.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ConsoleApp5" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ConsoleApp5" action="remove"></resource>
+  </assembly>
+</linker>
