@@ -17,7 +17,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы 
+<img width="683" height="74" alt="Снимок экрана 2026-03-01 193613" src="https://github.com/user-attachments/assets/edf9aae4-00fd-445e-99cc-7c195c1f13ad" />
+
 
 ## Задача 2
 
@@ -32,5 +33,5 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="565" height="74" alt="Снимок экрана 2026-03-01 193616" src="https://github.com/user-attachments/assets/8c0a3820-7c99-447b-b2a7-367e2e4201b9" />
 
